@@ -1,14 +1,9 @@
 import './App.css';
+import HomePage from './Pages/HomePage/HomePage';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <p>
-          <code>Thirukkural</code>
-        </p>
-      </header>
-    </div>
+    <HomePage />
   );
 }
 

@@ -1,0 +1,14 @@
+.cover {
+    height: 100%;
+    width: 100%;
+}
+
+.overflowY {
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+.overflowX {
+    overflow-x: auto;
+    overflow-y: hidden;
+}
